@@ -17,17 +17,17 @@
 ### 
 ### git commit -m "texto" --> Confirmamos los cambios para versionarlo
 ### 
-### git push origin main/master --> subimos los cambios al repositorio remoto (Github)
+### git push origin main/master --> Subimos los cambios al repositorio remoto (Github)
 ### 
 ### git log --> Permite ver el historial del proyecto, filtrarlo y buscar cambios concretos
 ### 
 ### git clone --> Clonar repositorio existente
 ### 
-### git checkout --> -b feature/footer creamos rama para agregar un footer
+### git checkout -b feature/footer --> Creamos rama para agregar un footer
 ### 
-### git branch --> -d feature/footer eliminamos rama que ya cumplio su funcion 
+### git branch -d feature/footer --> Eliminamos rama que ya cumplio su funcion 
 ### 
-### git checkout --> (nombre-rama) para cambiar de una rama a otra
+### git checkout (nombre-rama) --> para cambiar de una rama a otra
 ### 
 ### git branch --> nos permite ver las ramas locales
 ### 
