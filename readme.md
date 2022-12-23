@@ -2,8 +2,8 @@
 
 ## Cuenta Github
 
-## link Github pages:
-[Deploy Github Pages](https://github.com/noyanedelparada/Portafolio-m2)
+## link Github pages: [Deploy Github Pages](https://github.com/noyanedelparada/Portafolio-m2)
+
 
 ### Comandos utilizados en Github:
 
