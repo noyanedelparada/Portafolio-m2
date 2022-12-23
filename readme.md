@@ -27,3 +27,7 @@ git checkout (nombre-rama) para cambiar de una rama a otra
 git branch nos permite ver las ramas locales
 
 git merge feature/footer nos permite desde una rama X (Ejemplo main) fusionamos los cambios de una rama diferente
+
+## link Github pages: 
+
+[Deploy Github Pages](https://github.com/noyanedelparada/Portafolio-m2)
