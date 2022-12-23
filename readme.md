@@ -1,11 +1,19 @@
 # Entrega de portafolio M2
 
-## Cuentaibhut:
+## Cuenta Github
 
-git. init
+### Comandos utilizados en Github:
 
-git add .
-git. status
-git commit -m "texto"
-git log
-git push origin main/master
+git. init --> Para crear un repositorio
+
+git add . --> Agregamos los cambios al stage area
+
+git status --> 
+
+git commit -m "texto" --> Confirmamos los cambios para versionarlo
+
+git push origin main/master --> 
+
+git log -->
+
+git clone --> Clonar repositorio existente
